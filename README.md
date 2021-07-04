@@ -25,12 +25,9 @@ https://user-images.githubusercontent.com/63662197/124375953-4a1b4780-dcc2-11eb-
 
 About 
 
-We know we all have played the Snake Game and definitely, we never wanted to lose. As kids, we all loved looking for cheats in order to never see the “Game Over” message but     as techies, we know we would want to make this ‘Snake’ dance to our beats. This is what we will be doing all in our project using Python.
+We know we all have played the Snake Game and definitely, we never wanted to lose. As kids, we all loved looking for cheats in order to never see the “Game Over” message but as techies, we know we would want to make this ‘Snake’ dance to our beats. This is what we will be doing all in our project using Python.
 
 
 
 
-Thank you!!
-
-
-
+Thank you!!!
