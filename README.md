@@ -2,7 +2,7 @@
 
 Developed by 
       
-      Gauri Kolekar (196015) and Siddhi Tribhuvan (196037)
+      Gauri Kolekar (196015) and Siddhi Tribhuwan (196037)
 
 Guided by
       
